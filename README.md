@@ -1,4 +1,4 @@
-# Diplomado_Verano
+# BiLab Python Course
 
 This public repository contains the training materials, tutorials, code, and assignments for the Training Course in Python Fundamentals for Social Sciences and Public Management at QLAB.
 
