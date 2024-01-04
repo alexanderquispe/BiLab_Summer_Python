@@ -6,7 +6,7 @@ This public repository contains the training materials, tutorials, code, and ass
 
 |  | | 
 |:-------------------|---|
-| Course name | Python Fundamentals for Macroeconomics | 
+| Course name | Python Fundamentals for Bussiness | 
 | Number of Hours of Theory | 16 hours |
 | Professor | Alexander Quispe Rojas |
 | PUCP email | alexander.quispe@pucp.edu.pe |
@@ -53,7 +53,7 @@ The evaluation consists of a final work at the end of the course.
 ## VIII. Schedule
 
 |Week|Date|Day|Schedule|Topic|Subtopic
-|---|---|---|---|---|---
+|---|---|---|---|---|---|
 |1|01/04/2024|Thursday|18:00-21:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
 |2|01/06/2024|Saturday|18:00-21:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
 |3|01/09/2024|Thuesday|18:00-21:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
