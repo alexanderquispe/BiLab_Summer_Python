@@ -55,10 +55,10 @@ The evaluation consists of a final work at the end of the course.
 |Week|Date|Day|Schedule|Topic|Subtopic
 |---|---|---|---|---|---|
 |1|01/04/2024|Thursday|18:00-21:00| Github - Basic Objects| <ul>  <li>Installation</li>   <li>Branches</li>   <li>Repository </li> <li>Lists</li>   <li>Dictionaries</li>   <li>NumPy </li> </ul>   
-|2|01/06/2024|Saturday|18:00-21:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
-|3|01/09/2024|Thuesday|18:00-21:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
+|2|01/06/2024|Saturday|08:30-12:00| Pandas | <ul>  <li> Series </li>   <li>Indexing</li>   <li>Importing Data </li> <li> Data wrangling </li> </ul>      
+|3|01/09/2024|Tuesday|18:00-21:00 | Control Structures, Functions and Classes| <ul>  <li> If condition </li>   <li> For loop</li>   <li> While Loop</li> <li> Function Definitions </li>   <li> *args and **kwwargs </li>   <li> \_init_</li> <li> Attributes and Methods</li> </ul>    
 |4|01/11/2024|Thursday|18:00-21:00| APIs| <ul>  <li>Google Directions</li>   <li>Geolocation</li> <li>Finance APIs</li> </ul>   
-|5|01/13/2024|Saturday|18:00-21:00| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
+|5|01/13/2024|Saturday|08:30:-12:00| NLP| <ul>  <li> GPT-4 </li>   <li> Transformers </li>   </ul> 
 
 ## IX. Groups
 | Group1                         | Group2                          | Group3                               | Group4                                 | Group5                             | Group6                              | Group7                                    | Group8                            | Group9                              |
