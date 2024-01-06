@@ -78,8 +78,3 @@ The evaluation consists of a final work at the end of the course.
 2. Templates
 - https://bootstrapmade.com/bootstrap-portfolio-templates/
 - https://cssauthor.com/free-bootstrap-portfolio-templates/
-
-
-
-
-
