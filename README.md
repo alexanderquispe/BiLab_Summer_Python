@@ -40,7 +40,7 @@ The evaluation consists of a final work at the end of the course.
 
 | Nº | Type of evaluation | Weighting on Final Grade |
 |:-------------------|---| ---|
-| 8 | 4 evaluations | 80% |
+| 4 | Evaluations | 80% |
 | 1 | Final project | 20%|
 
 ## VII. Compulsory Bibliography
