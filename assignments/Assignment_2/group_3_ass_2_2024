@@ -1,4 +1,7 @@
-In this space we're sending all the information
+This document will record the activities of group 3.
+Igor, you will advance tuple. Zuleika and I List and Katherine all string
+
+Tuple:
 
 tuple1 = ("Orange", [10, 20, 30], (5, 15, 25))
 
@@ -49,6 +52,7 @@ tuple2_03=list(map(lambda number: number / 2, tuple2[2]))
 tuple3 = (tuple2_01, tuple2_02, tuple2_03)
 
 print(tuple3)
+
 
 Zuleika y Rodrigo
 
@@ -108,3 +112,5 @@ print("Apellidos:", list(apellidos))
 
 print("Nombres:", list(nombres))
 
+=======
+>>>>>>> 68c0046f27ef890ea371a7e1466661ed8915d709
