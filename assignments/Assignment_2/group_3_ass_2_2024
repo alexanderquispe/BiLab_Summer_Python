@@ -112,5 +112,94 @@ print("Apellidos:", list(apellidos))
 
 print("Nombres:", list(nombres))
 
-=======
->>>>>>> 68c0046f27ef890ea371a7e1466661ed8915d709
+1.3 Strings
+# 1 Drop the duplicated blank spaces in str1. Do not use the regular expresions. Do not use the code shown in class. Explain your steps.Hint: Use split method and join function.
+
+str1 = 'I am                            too                                                        old'
+
+' '.join(str1.split())
+
+'I am too old'
+
+data1 = ' '.join(str1.split())
+
+print(data1)
+
+I am too old
+
+#2 Get the number of letters in the string .Hint: Use lenfunction.
+
+len(data1)
+
+12
+
+len(str1)
+
+94
+
+#3 Get the number of blank spaces (all of them) in the string .Hint: Use lenfunction.
+
+str1.count(' ')
+
+85
+
+data1.count(' ')
+
+3
+
+#4 Get the position of @ in each string in the emails list. Hint: Use mapfunction and find method.
+
+
+emails = ["cscornejo@pucp.edu.pe", "orellana.cn@pucp.edu.pe", "karina.morales@pucp.edu.pe", "a20083223@pucp.edu.pe", "rvergaram@pucp.edu.pe", "a20161973@pucp.edu.pe","zcalderon@pucp.edu.pe"]
+
+print(emails)
+
+['cscornejo@pucp.edu.pe', 'orellana.cn@pucp.edu.pe', 'karina.morales@pucp.edu.pe', 'a20083223@pucp.edu.pe', 'rvergaram@pucp.edu.pe', 'a20161973@pucp.edu.pe', 'zcalderon@pucp.edu.pe']
+[42]
+
+def obtener_posicion_arroba(result1):
+    return result1.find('@')
+
+list(map(obtener_posicion_arroba, emails))
+
+[9, 11, 14, 9, 9, 9, 9]
+
+#5 Identifies if exists .edu. in each string in the emails list. Get a list of Booleans. Hint: Use mapfunction and find method.
+
+def contiene_edu(result2):
+    return '.edu.' in result2
+
+list(map(contiene_edu, emails))
+
+[True, True, True, True, True, True, True]
+
+#6 Get all the strings before the first dot .in each string in the emails list. Identifies how many of them has @. Hint: Use mapfunction and find method.
+
+def get_substring_before_dot(result4):
+    substring_before_dot = result4.split('.')[0]
+    return substring_before_dot
+
+list(map(get_substring_before_dot, emails))
+
+
+['cscornejo@pucp',
+ 'orellana',
+ 'karina',
+ 'a20083223@pucp',
+ 'rvergaram@pucp',
+ 'a20161973@pucp',
+ 'zcalderon@pucp']
+
+dataf = list(map(get_substring_before_dot, emails))
+
+print(dataf)
+
+['cscornejo@pucp', 'orellana', 'karina', 'a20083223@pucp', 'rvergaram@pucp', 'a20161973@pucp', 'zcalderon@pucp']
+
+def contiene_arroba1(resultf):
+    return '@' in resultf
+
+list(map(contiene_arroba1, dataf))
+
+[True, False, False, True, True, True, True]
+
